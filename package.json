@@ -1,0 +1,8 @@
+{
+  "Name": "Express Parameter & Postman",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.11.0",
+    "express": "*"
+  }
+}
